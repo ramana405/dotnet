@@ -126,3 +126,4 @@ Would you like to become a hero too? Pick an [issue](https://github.com/Kentico/
 ![Analytics](https://kentico-ga-beacon.azurewebsites.net/api/UA-69014260-4/Kentico/cloud-sample-app-net?pixel)
 ###abcd
 ##Myname
+Last changes added
